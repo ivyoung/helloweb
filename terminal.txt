@@ -1,0 +1,25 @@
+how to use terminal:
+
+Common commands:
+
+git - git version control
+    - how to use:
+      - check git repo status eg. git status 
+      - init repo eg. git init        
+      - commit code eg. git commit
+      - push code eg. git push
+ls - list current directory's files
+
+pwd - show current directory path
+
+find - find specific file through file system
+  - how to use:
+    - find files at user's directory:
+      eg. find ~/ -name "ivyoung"
+
+
+vi  - create a file 
+    eg. vi [filename]
+
+
+
