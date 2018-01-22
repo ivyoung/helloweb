@@ -2,4 +2,4 @@
 
 This is the beginning of my programming study.
 
-[Good Luck to myself!]
+**Good Luck to myself!**
