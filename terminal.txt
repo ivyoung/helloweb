@@ -19,7 +19,7 @@ find - find specific file through file system
       eg. find ~/ -name "ivyoung"
 
 
-vi  - create a file 
+vi  - create a file or changes for an exiting file
     eg. vi [filename]
 
 
